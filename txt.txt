@@ -1,0 +1,4 @@
+monga DB 
+- create schema - define the stucture
+ Schema - model
+ using model we do CRUD operation;
