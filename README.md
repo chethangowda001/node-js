@@ -15,3 +15,11 @@ POST /api/user - Create new user
 PATCH /api/user/ID - Edit the user ID
 
 DELETE /api/user/ID - delete the user ID
+
+
+MONGO DB
+
+monga DB 
+- create schema - define the stucture
+ Schema - model
+ using model we do CRUD operation;
